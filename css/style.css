@@ -1,0 +1,8 @@
+.d3-tip {
+	font-size: 12px;
+	line-height: 1;
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 6px;
+	border-radius: 4px;
+}
