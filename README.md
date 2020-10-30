@@ -1,15 +1,15 @@
-# [Heatmap](https://alfred-kctang.github.io/d3-choropleth-map/)
+# [Choropleth Map](https://alfred-kctang.github.io/d3-choropleth-map/)
 
-This project demonstrates how a choropleth map with interactive features is created using the visualization library, D3.
+This project demonstrates how a choropleth map with the tooltip feature is created using the visualization library, D3.
 
 ## Table of Contents
 
-* [Interactive Features](#interactive-effects)
+* [Tooltip Feature](#tooltip-feature)
 * [License](#license)
 
-## Interactive Features
+## Tooltip Feature
 
-* 
+When the user hovers over a state on the choropleth map, a tooltip pops up with the following information: (1) state name, (2) region, and (3) total earthquakes. The tooltip disappears upon mouseout.
 
 ## License
 
